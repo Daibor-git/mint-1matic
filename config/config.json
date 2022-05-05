@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x37841d0a7A9303A3EC7A1fbb7399870781E2bbDe",
+  "SCAN_LINK": "https://polygonscan.com/address/0x37841d0a7a9303a3ec7a1fbb7399870781e2bbde",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Art Project 'No War' Official",
+  "SYMBOL": "NoWar",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/art-project-no-war",
+  "SHOW_BACKGROUND": true
+}
